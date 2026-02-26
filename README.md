@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-blue.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Compose-1.5.0-blue.svg)](https://developer.android.com/jetpack/compose)
+
 一个极简的 Android 工具，用于在同一局域网内发现 FMO 设备，并按设定周期将手机 GPS 坐标通过 WebSocket 写入 FMO。
 
 ## 项目简介
